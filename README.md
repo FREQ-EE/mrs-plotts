@@ -5,14 +5,14 @@
 ---
 ## Overview
 
-Welcome to my humble application! My name is Mrs. Plotts, and just like I used to keep Beast's castle in order, I’m here to help you tidy up your messy data. Whether it’s renaming columns, handling duplicates, or filling in missing values, I’ll guide you through it all with a warm cup of tea and a reassuring word.
+Welcome! My name is Mrs. Plotts, and just like I used to keep Beast's castle in order, I’m here to help you tidy up your messy data. Whether it’s renaming columns, handling duplicates, or filling in missing values, I’ll guide you through it all with a warm cup of tea and a reassuring word.
 
 Of course, I recommend reviewing everything before finalising, just to ensure everything's neat as a teapot. And, as I always say, backups are a must! You wouldn't want to lose anything important—like when I nearly lost Chip in the washing, would you?
 
 ### What I Can Do for You:
 - **Load your data** from a CSV file
 - **Give an overview** of the data’s shape, types, and missing values
-- **Rename columns** (and tidy them up too, if you'd like!)
+- **Rename columns**
 - **Identify and handle duplicates** (because two of the same is a bit redundant, isn’t it?)
 - **Help with data types**, offering conversions to common types like integers, floats, and dates
 - **Handle categorical data**, allowing you to rename or inspect categories
